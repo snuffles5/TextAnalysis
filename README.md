@@ -5,7 +5,7 @@ This repository contains a Jupyter notebook and the results of a machine learnin
 
 ## Contents
 
-- `classification_notebook.ipynb`: Jupyter notebook detailing the preprocessing, modeling, and prediction steps for the Hebrew texts.
+- `Assignment3-text-analy.ipynb`: Jupyter notebook detailing the preprocessing, modeling, and prediction steps for the Hebrew texts.
 - `classification_results.csv`: CSV file containing the final predictions.
 
 ## Overview
